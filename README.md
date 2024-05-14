@@ -6,6 +6,6 @@ Swap between applications using keyboard shortcuts
 While the application list is open, you can just press the assigned letter to open it.
 You can switch directly to an application if you already know the letter assigned to it with `option+shift+<letter>`
 
-To use it, just requires the `app_switcher` file from your lua config
-require("./AppSwitcher/app_switcher")
+To use it, just requires the `app_switcher` file from your hammerspoon config
+`require("./AppSwitcher/app_switcher")`
 
